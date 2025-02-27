@@ -7,7 +7,7 @@ from model_pipeline import prepare_data, train_model, evaluate_model, save_model
 #mlflow.set_tracking_uri("sqlite:///mlflow.db")
 app = FastAPI()  # This is the FastAPI app instance
 def main():
-   
+   # Test comment 
     # Initialize MLflow experiment
     mlflow.set_experiment("MLflow_Atelier5")
    
