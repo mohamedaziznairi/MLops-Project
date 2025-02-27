@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aziz/mohamedaziznairi-4ds5-mlproject/mlruns/928400657404392077/958998f361db48ec85ca0d47d063e763/artifacts
+end_time: 1740669999574
+entry_point_name: ''
+experiment_id: '928400657404392077'
+lifecycle_stage: active
+run_id: 958998f361db48ec85ca0d47d063e763
+run_name: overjoyed-swan-344
+run_uuid: 958998f361db48ec85ca0d47d063e763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740669998808
+status: 3
+tags: []
+user_id: aziz
