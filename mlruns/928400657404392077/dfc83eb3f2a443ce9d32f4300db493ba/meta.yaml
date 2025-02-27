@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aziz/mohamedaziznairi-4ds5-mlproject/mlruns/928400657404392077/dfc83eb3f2a443ce9d32f4300db493ba/artifacts
+end_time: 1740608676450
+entry_point_name: ''
+experiment_id: '928400657404392077'
+lifecycle_stage: active
+run_id: dfc83eb3f2a443ce9d32f4300db493ba
+run_name: selective-sow-96
+run_uuid: dfc83eb3f2a443ce9d32f4300db493ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740608670812
+status: 3
+tags: []
+user_id: aziz
